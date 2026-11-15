@@ -21,6 +21,7 @@ I am not a developer and I do not present myself as one: I design, scope and che
 
 **Also built (code private)**
 
+- [Chappeo](https://chappeo.fr): moves accounting firms' small-business clients onto e-invoicing. I built the website with Claude Code, live since September 2026, and published a study of the websites of 85 accounting firms in the Paris region (58 say nothing about e-invoicing, none shows a price). The internal diagnostic tool (SIREN checks, cross-checks against the official e-invoicing directory and the Sirene register) is covered by 105 test cases.
 - Bourse Opportunités: personal quantitative equity research project. A Quality-Value backtest on European equities in Python with Claude Code was dropped after failing its pre-registered test, and the protocol rejected four strategies against pre-declared thresholds. The data pipeline has 1,098 Python tests.
 - AI course for interim executives (Amadeus Executives): six one-hour sessions for 20 to 25 participants each, under way. I designed the course and launched its website in 3 days with Claude Code.
 
