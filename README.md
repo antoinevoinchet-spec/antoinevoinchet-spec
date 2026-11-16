@@ -37,5 +37,7 @@ Claude Code, used to build with Python (pandas), TypeScript/Next.js, SQL/Postgre
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/antoine-voinchet/). Languages: French (native), English (C1), Spanish (B2).
+[antoine.voinchet@essec.edu](mailto:antoine.voinchet@essec.edu) · [LinkedIn](https://www.linkedin.com/in/antoine-voinchet/). 
+
+Languages: French (native), English (C1), Spanish (B2).
 
