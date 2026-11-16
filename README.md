@@ -13,12 +13,10 @@ I am not a developer and I do not present myself as one: I design, scope and che
 
 ## Selected projects
 
-| Project | What it is |
-|---|---|
-| [capture-chrome-extension](https://github.com/antoinevoinchet-spec/capture-chrome-extension) | Chrome extension that captures a full web page, then annotates and exports it. Designed with Claude Code and released open source. Built in batches signed off one at a time, each reviewed by an independent agent and tried for real, with 758 automated checks (as of 4 November 2026). Installed by hand, not on the Chrome Web Store; the interface is in French. |
-| [news-alpha](https://github.com/antoinevoinchet-spec/news-alpha) | Tested whether an AI model reading 16,432 filings from US-listed companies could beat the Russell 2000, with criteria frozen in advance. Verdict: no-go, for that model and prompt over that period. |
-| [cockpit](https://github.com/antoinevoinchet-spec/cockpit) | Monitoring panel for AI agents (activity, usage, code changes without tests), designed with Claude Code. Audited, then improved through seven workstreams, each reviewed by an independent agent. |
-| [prompt-forge](https://github.com/antoinevoinchet-spec/prompt-forge) | An open-source prompt-writing skill (MIT licence) that I adapted and extended, then measured on 17 scenarios, 90% of them checked by code. |
+- [capture-chrome-extension](https://github.com/antoinevoinchet-spec/capture-chrome-extension): Chrome extension that captures a full web page, then annotates and exports it. Designed with Claude Code; the code is public, with no open-source licence. Built in batches signed off one at a time, each reviewed by an independent agent and tried for real, with 758 automated checks (as of 4 November 2026). Installed by hand, not on the Chrome Web Store; the interface is in French.
+- [news-alpha](https://github.com/antoinevoinchet-spec/news-alpha): tested whether an AI model reading 16,432 filings from US-listed companies could beat the Russell 2000, with criteria frozen in advance. Verdict: no-go, for that model and prompt over that period.
+- [cockpit](https://github.com/antoinevoinchet-spec/cockpit): monitoring panel for AI agents (activity, usage, code changes without tests), designed with Claude Code. Audited, then improved through seven workstreams, each reviewed by an independent agent.
+- [prompt-forge](https://github.com/antoinevoinchet-spec/prompt-forge): an open-source prompt-writing skill (MIT licence) that I adapted and extended, then measured on 17 scenarios, 90% of them checked by code.
 
 **Also built (code private)**
 
