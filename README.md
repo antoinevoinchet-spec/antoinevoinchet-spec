@@ -1,6 +1,7 @@
-# Antoine Voinchet
-
-ESSEC Grande École student. I build AI products with Claude Code and teach executives to work with AI.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner/banner-dark.png">
+  <img src="banner/banner-light.png" alt="Antoine Voinchet. ESSEC Grande École student. I build AI products with Claude Code and teach executives to work with AI.">
+</picture>
 
 Paris. Available for a 6-month internship from January 2027.
 
