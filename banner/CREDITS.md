@@ -8,11 +8,11 @@ Files collected on 16 November 2026.
 | `assets/logos/essec.svg` | Header logo of https://www.essec.edu/fr/, unmodified | ESSEC Business School trademark |
 | `assets/logos/amadeus-executives.webp` | Header logo of https://amadeus-executives.com/ (shown in black in the light version) | Amadeus Executives trademark |
 | `assets/logos/kleep.svg` | https://www.kleep.ai/brand/logo-kleep-lockup-black.svg (shown in white in the dark version) | Kleep trademark |
-| `assets/logos/chappeo-*.svg` | Chappeo brand files | The profile owner's own project |
+| `assets/logos/chappeo-*.svg` | Chappeo brand files (light and dark versions) | Chappeo trademark |
 | `assets/icons/*.svg` | Simple Icons 16.33.0 (via jsDelivr) | Icon data under CC0 1.0; trademarks remain with their owners |
 
 All trademarks belong to their respective owners. This personal profile is not affiliated with or endorsed by Anthropic.
 
 ## Re-rendering
 
-Edit `banner.html`, then run `./render.sh` from this folder. It needs python3 and playwright-cli, and writes `banner-light.png` and `banner-dark.png` (2560 x 840).
+Edit `banner.html`, then run `./render.sh` from this folder. It needs python3, playwright-cli, an internet connection (the fonts load from Google Fonts) and a free local port 8766. It writes `banner-light.png` and `banner-dark.png` (2560 x 840).
