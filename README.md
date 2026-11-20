@@ -3,41 +3,35 @@
   <img src="banner/banner-light.png" alt="Antoine Voinchet. ESSEC Grande École student. I design, build and test AI products with Claude Code, and teach executives to work with AI.">
 </picture>
 
-Paris. Available for a 6-month internship from January 2027.
+**Looking for:** a 6-month internship from January 2027, in Paris, in AI transformation, strategy consulting or AI product roles.
 
-## About
+ESSEC Grande École (Master in Management). Before that: co-founder of Polaris IA, an AI process-automation consultancy (2025), then chief of staff to the CEO and customer success manager at Kleep, an AI fashion-tech company (2025–2026). Since October 2026 I have been designing and teaching an AI course for interim executives at Amadeus Executives.
 
-I am in the Grande École Program (Master in Management) at ESSEC Business School. Before this I co-founded Polaris IA, an AI process-automation consultancy (January to June 2025), and worked at Kleep, an AI fashion-tech company, as chief of staff to the CEO and customer success manager (September 2025 to February 2026). Since October 2026 I have been designing and delivering an AI course for interim executives at Amadeus Executives.
-
-I am not a developer and I do not present myself as one: I design, scope and check the work, and Claude Code writes the code. What I bring is method: criteria set before the data, tests, independent review, and nothing irreversible without human approval.
+I don't write code by hand: I design, scope and verify the work, and Claude Code writes it. What I bring is method: success criteria set before the data, tests, independent review, and human approval before anything irreversible.
 
 ## Selected projects
 
-- [capture-chrome-extension](https://github.com/antoinevoinchet-spec/capture-chrome-extension): Chrome extension that captures a full web page, then annotates and exports it. Designed with Claude Code; the code is public, with no open-source licence. Built in batches signed off one at a time, each reviewed by an independent agent and tried for real, with 758 automated checks (as of 4 November 2026). Installed by hand, not on the Chrome Web Store; the interface is in French.
-- [news-alpha](https://github.com/antoinevoinchet-spec/news-alpha): tested whether an AI model reading 16,432 filings from US-listed companies could beat the Russell 2000, with criteria frozen in advance. Verdict: no-go, for that model and prompt over that period.
-- [cockpit](https://github.com/antoinevoinchet-spec/cockpit): monitoring panel for AI agents (activity, usage, code changes without tests), designed with Claude Code. Audited, then improved through seven workstreams, each reviewed by an independent agent.
-- [prompt-forge](https://github.com/antoinevoinchet-spec/prompt-forge): an open-source prompt-writing skill (MIT licence) that I adapted and extended, then measured on 17 scenarios, 90% of them checked by code.
+| Project | What it is | Result |
+|---|---|---|
+| [capture-chrome-extension](https://github.com/antoinevoinchet-spec/capture-chrome-extension) | Chrome extension that captures a full web page, then annotates and exports it | 758 automated checks (4 Nov 2026); every batch reviewed by an independent agent |
+| [news-alpha](https://github.com/antoinevoinchet-spec/news-alpha) | Can an AI model reading 16,432 filings from US-listed companies beat the Russell 2000? | Criteria frozen in advance. **No-go** for that model and prompt over that period |
+| [cockpit](https://github.com/antoinevoinchet-spec/cockpit) | Monitoring panel for AI agents: activity, usage, code changes without tests | Audited, then improved in seven workstreams, each independently reviewed |
+| [prompt-forge](https://github.com/antoinevoinchet-spec/prompt-forge) | Prompt-writing skill (MIT), adapted and extended from an open-source project | Measured on 17 scenarios, 90% of them checked by code |
 
-**Also built (code private)**
+**Also built, code private**
 
-- [Chappeo](https://chappeo.fr): moves accounting firms' small-business clients onto e-invoicing. I built the website with Claude Code, live since September 2026, and published a study of the websites of 85 accounting firms in the Paris region (58 say nothing about e-invoicing, none shows a price). The internal diagnostic tool (SIREN checks, cross-checks against the official e-invoicing directory and the Sirene register) is covered by 105 test cases.
-- Bourse Opportunités: personal quantitative equity research project. A Quality-Value backtest on European equities in Python with Claude Code was dropped after failing its pre-registered test, and the protocol rejected four strategies against pre-declared thresholds. The data pipeline has 1,098 Python tests.
-- AI course for interim executives (Amadeus Executives): six one-hour sessions for 20 to 25 participants each, under way. I designed the course and launched its website in 3 days with Claude Code.
+- [Chappeo](https://chappeo.fr): helps accounting firms move their small-business clients onto e-invoicing. Website live since September 2026; a published study of 85 Paris-region accounting firms' websites (58 say nothing about e-invoicing, none shows a price); diagnostic tool covered by 105 test cases.
+- Bourse Opportunités: quantitative equity research. A Quality-Value backtest on European equities dropped after failing its pre-registered test, and four strategies rejected against pre-declared thresholds; data pipeline with 1,098 Python tests.
+- AI course for interim executives (Amadeus Executives): six one-hour sessions for 20 to 25 participants each, under way; course website launched in 3 days.
 
 ## How I work
 
-- **Agents get guardrails.** I designed a guardrail with Claude Code that blocks irreversible actions by AI agents, or asks for confirmation first (push, deletion, destructive SQL, production deployment, paid API calls). A prototype in which every irreversible action waits for human approval was validated over 104 runs, on a fictional project only.
 - **Criteria before data.** Success thresholds are written down before any result is seen, and applied as written, including when the answer is no.
 - **Tests, then a fresh pair of eyes.** Work is tested, then reviewed by an independent agent that did not write it, before I sign it off.
-- **Figures and sources.** The course I teach is built around three habits: check figures and references, protect client data, approve before signing.
+- **Guardrails on agents.** I designed a guardrail where irreversible actions (push, deletion, destructive SQL, production deployment, paid API calls) are blocked or wait for human approval. Prototype validated over 104 runs, on a fictional project.
 
-## Tools
+## Tools and contact
 
-Claude Code, used to build with Python (pandas), TypeScript/Next.js, SQL/PostgreSQL, Supabase and Git. Make and n8n for no-code automation.
+Claude Code with Python (pandas), TypeScript/Next.js, SQL/PostgreSQL, Supabase and Git; Make and n8n for no-code automation.
 
-## Contact
-
-[antoine.voinchet@essec.edu](mailto:antoine.voinchet@essec.edu) · [LinkedIn](https://www.linkedin.com/in/antoine-voinchet/). 
-
-Languages: French (native), English (C1), Spanish (B2).
-
+[antoine.voinchet@essec.edu](mailto:antoine.voinchet@essec.edu) · [LinkedIn](https://www.linkedin.com/in/antoine-voinchet/) · French (native), English (C1), Spanish (B2)
