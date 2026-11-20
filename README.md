@@ -7,7 +7,7 @@
 
 ESSEC Grande École (Master in Management). Before that: co-founder of Polaris IA, an AI process-automation consultancy (2025), then chief of staff to the CEO and customer success manager at Kleep, an AI fashion-tech company (2025–2026). Since October 2026 I have been designing and teaching an AI course for interim executives at Amadeus Executives.
 
-I don't write code by hand: I design, scope and verify the work, and Claude Code writes it. What I bring is method: success criteria set before the data, tests, independent review, and human approval before anything irreversible.
+I build and verify AI products with Claude Code—turning product requirements into tested, reviewable implementations. What I bring is method: success criteria set before the data, tests, independent review, and human approval before anything irreversible.
 
 ## Selected projects
 
