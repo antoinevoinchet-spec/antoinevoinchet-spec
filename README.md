@@ -32,6 +32,9 @@ I don't write code by hand: I design, scope and verify the work, and Claude Code
 
 ## Tools and contact
 
-Claude Code with Python (pandas), TypeScript/Next.js, SQL/PostgreSQL, Supabase and Git; Make and n8n for no-code automation.
+Claude Code, used to build with Python (pandas), TypeScript/Next.js, SQL/PostgreSQL, Supabase and Git. Make and n8n for no-code automation.
 
-[LinkedIn](https://www.linkedin.com/in/antoine-voinchet/) · French (native), English (C1), Spanish (B2)
+## Contact
+
+[antoine.voinchet@essec.edu](mailto:antoine.voinchet@essec.edu) · [LinkedIn](https://www.linkedin.com/in/antoine-voinchet/).
+Languages: French (native), English (C1), Spanish (B2).
